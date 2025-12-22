@@ -3,6 +3,10 @@
 중앙대학교 SW융합대학 예술공학학부 캡스톤디자인1 2025
 
 ---
+## 🎬 Project Demo Video
+
+[![CHARIM Demo Video]]([https://youtu.be/H1bV4cUXSgs?si=zNbZtkY20SMYmPeW])
+---
 
 ## 📌 Project Overview
 
