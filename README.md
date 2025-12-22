@@ -4,9 +4,9 @@
 
 ---
 
-## 🎬 Project Video
+## 🎬 Project Introduction Video
 
-▶️ [CHARIM Project Demo Video](https://youtu.be/H1bV4cUXSgs?si=zNbZtkY20SMYmPeW)
+▶️ [CHARIM Project Introduction Video](https://youtu.be/H1bV4cUXSgs?si=zNbZtkY20SMYmPeW)
 
 ---
 
