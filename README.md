@@ -4,7 +4,7 @@
 
 ---
 
-## 🎬 Project Demo Video
+## 🎬 Project Video
 
 ▶️ [CHARIM Project Demo Video](https://youtu.be/H1bV4cUXSgs?si=zNbZtkY20SMYmPeW)
 
