@@ -144,11 +144,11 @@ YOLO 기반 모션 인식 기술을 활용한 인터랙티브 전시를 통해
 ### 1. Install dependencies
 ```bash
 pip install ultralytics
-
+```
 ### 2. run python 
 ```bash
 python video_4.py
-
+```
 
 ---
 
