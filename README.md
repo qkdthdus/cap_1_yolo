@@ -7,6 +7,7 @@
 ## 🎬 Project Introduction Video
 
 ▶️ [CHARIM Project Introduction Video](https://youtu.be/H1bV4cUXSgs?si=zNbZtkY20SMYmPeW)
+![](./전시개요.jpg)
 
 ---
 
