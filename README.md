@@ -141,7 +141,7 @@ YOLO 기반 모션 인식 기술을 활용한 인터랙티브 전시를 통해
 
 ## 🚀 How to Run
 
-이 프로젝트는 **Ultralytics YOLO** 라이브러리를 사용하며, 4개의 모니터가 필요합니다.
+이 프로젝트는 **Ultralytics YOLO** 라이브러리를 사용하며, 4개의 모니터가 필요하다.
 
 ### 1. Install dependencies
 ```bash
