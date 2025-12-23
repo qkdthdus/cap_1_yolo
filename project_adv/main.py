@@ -48,12 +48,12 @@ while True:
 
     frame_count += 1
 
-    # 🔍 YOLO는 가끔만
+    # 🔍 YOLO
     if frame_count % 80 == 0:
         person_close, _ = infer.detect_person(frame)
         hand_closed, hand_open = infer.detect_hand(frame)
 
-    # 🧠 FSM은 매 프레임
+    # 🧠 FSM
     ready = fsm.update(hand_closed, hand_open)
 
     if (person_close and ready or mouse_trigger) and trigger_mgr.can_trigger():
