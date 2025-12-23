@@ -153,6 +153,28 @@ pip install ultralytics
 python video_4.py
 ```
 
+*project_adv는 해당 코드를 기능 단위 모듈화한 프로젝트 파일로 
+main.py를 실행시키면 사용할 수 있음
+
+```bash
+project_adv/
+│ ├─ core/
+│ │ ├─ camera.py
+│ │ ├─ inference.py
+│ │ ├─ gesture.py
+│ │ ├─ trigger.py
+│ │ └─ screen.py
+│ │ 
+│ ├─ brand_pic/
+│ │ ├─ video1.mp4
+│ │ ├─ video2.mp4
+│ │ ├─ video3.mp4
+│ │ └─ video4.mp4
+│ │
+│ └─ main.py
+```
+
+
 ---
 
 ## ✨ Key Value
