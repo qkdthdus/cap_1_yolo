@@ -152,6 +152,9 @@ pip install ultralytics
 ```bash
 python video_4.py
 ```
+![](./using.png)
+
+---
 
 *project_adv는 해당 코드를 기능 단위 모듈화한 프로젝트 파일로 
 main.py를 실행시키면 사용할 수 있음
